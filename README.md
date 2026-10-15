@@ -4,6 +4,8 @@
 
 <h2>Product CSV checker — KRW 14,900, one time</h2>
 
+<p><strong>Already checked the scope?</strong> <a href="https://gyodaeryeok.lemonsqueezy.com/checkout/buy/2ffed496-68f6-4f26-ad3a-adad5bcad9ae">Buy the existing Product CSV checker ZIP — KRW 14,900, one time</a>. Review <a href="https://onepage48.kkebi2.chatgpt.site/products/catalog-csv-checker/en#product-conditions">contents, limits and purchase conditions</a> before paying. Final tax and amount are shown by Lemon Squeezy. This is a self-made paid download, developed with AI assistance; no customer results are claimed.</p>
+
 <p>For store operators checking product rows before an import: map SKU, name, price, stock and image URL, inspect row reasons and save CSV/TXT reports. The downloaded general checker supports up to 1,000 data rows, 100 columns and 2 MiB, with UTF-8/BOM or CP949.</p>
 
 <ul>
